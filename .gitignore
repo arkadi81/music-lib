@@ -1,0 +1,8 @@
+node_modules
+learning_scripts
+code-samples
+ignore
+dist
+//*.html
+
+src/app/assets/scripts/backend/

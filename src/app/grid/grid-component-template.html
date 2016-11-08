@@ -1,0 +1,32 @@
+<h3><b>This is a grid of music recordings.<br/> The model and view are linked inside of a component (grid.component.js) and an external, dynamic html template is used (grid-component-template.html)<br/></b></h3></br>
+
+ Search: <input ng-model="$ctrl.query"/> (searchees by composer, can be extended to everything or any other field)
+ 
+ <br/><br/>
+
+
+<!--
+<div ng-bind="$ctrl.query"></div>
+-->
+
+<div class="container">
+  <table id="pieces-table" class="table table-bordered table-striped table-hover">
+  	<thead>
+  		<tr>
+  			<th>Composer</th>
+  			<th>Name of piece</th>
+  			<th>Cat no</th>
+  			<th>yes/no</th>
+  		</tr>
+  	</thead>
+    	
+  	<tbody>
+  		<tr class="experimental" ng-repeat="piece in $ctrl.pieces | filter:{composer: $ctrl.query}"> <!-- false means look for substring and non case sensitive -->
+    		<td ng-bind="piece.composer"></td>
+      	<td ng-bind="piece.composition_name"></td>
+    		<td ng-bind="piece.cat_number"></td>
+    		<td><input type="checkbox"></td>
+    	</tr>	
+   	</tbody>
+  </table>
+</div>

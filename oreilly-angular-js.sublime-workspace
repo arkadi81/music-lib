@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"module",
+				"moduleNumber"
+			],
+			[
+				"border-b",
+				"border-bottom-style"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"men",
+				"menuItem"
+			],
+			[
+				"item",
+				"menuItem"
+			],
+			[
+				"brow",
+				"browserfy"
+			],
+			[
+				"initiali",
+				"initialized"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"image",
+				"imageMin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/programming/UwAmp/www/oreilley-angularjs"
+	],
+	"file_history":
+	[
+		"/E/Programming/UwAmp/www/strawberry_master/tests/logging.php",
+		"/E/Programming/UwAmp/www/strawberry_master/session_destroy.php",
+		"/E/Programming/UwAmp/www/strawberry_master/modules/timer.js",
+		"/E/Programming/UwAmp/www/strawberry_master/modules/module3.js",
+		"/E/Programming/UwAmp/www/strawberry_master/theory.js",
+		"/E/Programming/UwAmp/www/strawberry_master/module_functions.js",
+		"/E/Programming/UwAmp/www/strawberry_master/home.php",
+		"/E/Programming/UwAmp/www/strawberry_master/global_options.js",
+		"/E/Programming/UwAmp/www/strawberry_master/report.php",
+		"/E/Programming/UwAmp/www/strawberry_master/session.php",
+		"/E/Programming/UwAmp/www/strawberry_master/welcome.php",
+		"/E/Programming/UwAmp/www/strawberry_master/modules/timer.php",
+		"/E/Programming/UwAmp/www/strawberry_master/test_mode.php",
+		"/E/Programming/UwAmp/www/strawberry_master/index.php",
+		"/E/Programming/UwAmp/www/strawberry_master/scripts/cookie/cookie.js",
+		"/E/Programming/UwAmp/www/strawberry_master/modules/module12.js",
+		"/E/Programming/UwAmp/www/tests/filename/index.php",
+		"/E/Programming/UwAmp/www/strawberry/module_functions.js",
+		"/E/Programming/UwAmp/www/strawberry/styles/print.css",
+		"/E/Programming/UwAmp/www/strawberry/index.php",
+		"/E/Programming/UwAmp/www/strawberry/module_functions.js.bak",
+		"/C/Users/nj/Desktop/module_functions.js.20160907.latest.js",
+		"/E/Programming/UwAmp/www/strawberry/report.php",
+		"/E/Programming/UwAmp/www/strawberry/global_options.js",
+		"/E/Programming/UwAmp/www/strawberry/session.php",
+		"/E/Programming/UwAmp/www/strawberry/welcome.php",
+		"/E/Programming/UwAmp/www/strawberry/modules/timer.js",
+		"/E/Programming/UwAmp/www/strawberry/home.php",
+		"/E/Programming/UwAmp/www/strawberry/modules/module10.js",
+		"/E/Programming/UwAmp/www/strawberry/modules/module8.js",
+		"/E/Programming/UwAmp/www/strawberry/modules/module3.js",
+		"/E/Programming/UwAmp/www/strawberry/modules/module11.js",
+		"/E/Programming/UwAmp/www/strawberry/modules/module10.php",
+		"/E/Programming/UwAmp/www/strawberry/modules/module12.js",
+		"/E/Programming/UwAmp/www/strawberry/modules/module5.js",
+		"/E/Programming/UwAmp/www/strawberry/modules/module6.js",
+		"/E/Programming/UwAmp/www/strawberry/modules/module7.php",
+		"/E/Programming/UwAmp/www/strawberry/modules/module6.php",
+		"/E/Programming/UwAmp/www/strawberry/modules/module7.js",
+		"/E/Programming/UwAmp/www/strawberry/modules/module4.php",
+		"/E/Programming/UwAmp/www/strawberry/modules/module5.php",
+		"/E/Programming/UwAmp/www/strawberry/modules/print-header.php",
+		"/E/Programming/UwAmp/www/strawberry/modules/module4.js",
+		"/E/Programming/UwAmp/www/strawberry/modules/module2.js",
+		"/E/Programming/UwAmp/www/strawberry/modules/module2.php",
+		"/E/Programming/UwAmp/www/strawberry/modules/module3.php",
+		"/E/Programming/UwAmp/www/strawberry/gulpfile.js",
+		"/E/Programming/UwAmp/www/strawberry/scripts/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/F/sites/marsbq/gulpfile.js",
+		"/F/sites/marsbq/src/scripts/modules/view.js",
+		"/F/sites/marsbq/src/scripts/modules/model.js",
+		"/F/sites/marsbq/src/scripts/main.js",
+		"/F/sites/marsbq/src/scripts/modules/helper.js",
+		"/F/sites/marsbq/dist/scripts/main.js",
+		"/F/sites/marsbq/src/styles/main.less",
+		"/F/sites/marsbq/src/templates/partials/countdown.hbs",
+		"/F/sites/marsbq/src/styles/modules/base.less",
+		"/F/sites/marsbq/src/templates/partials/menu.hbs",
+		"/F/sites/marsbq/src/styles/modules/menu.less",
+		"/F/sites/marsbq/src/styles/modules/helper.less",
+		"/F/sites/marsbq/src/styles/modules/countdown.less",
+		"/F/sites/marsbq/src/styles/modules/header.less",
+		"/F/sites/marsbq/src/templates/partials/header.hbs",
+		"/F/sites/marsbq/src/styles/modules/mixins.less",
+		"/F/sites/marsbq/src/styles/modules/color-variables.less",
+		"/F/sites/marsbq/src/styles/modules/footer.less",
+		"/F/sites/marsbq/src/templates/partials/footer.hbs",
+		"/F/sites/marsbq/src/templates/index.hbs",
+		"/F/sites/marsbq/src/styles/main.css",
+		"/F/sites/marsbq/.gitignore",
+		"/F/sites/marsbq/src/templates/index.hbs.html",
+		"/F/sites/marsbq/index.html",
+		"/F/sites/first-git/.gitignore",
+		"/F/sites/first-git/hello.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"session",
+			"session_st",
+			"submit",
+			"use",
+			"session",
+			"sessio",
+			"sess",
+			"checkanswer",
+			"initial",
+			"initialize_clock",
+			"<?",
+			"initializ",
+			"ini",
+			"clock",
+			"initia",
+			"Clock",
+			"initializ",
+			"clock",
+			"initiali",
+			"[2]",
+			"timer",
+			"jquery",
+			"testdur",
+			"document.cookie",
+			"thank you f",
+			"test",
+			"submit",
+			"file",
+			"header",
+			"test ",
+			"arra.pro",
+			"proto",
+			"submit",
+			"submi",
+			"module",
+			"onclick",
+			"checkans",
+			"onclick",
+			"submit",
+			"practice",
+			"report",
+			"shows",
+			"submit",
+			"showsummar",
+			"submit",
+			"checkanswers",
+			"testd",
+			"practice",
+			"test",
+			"examp",
+			"example",
+			"meter",
+			"print",
+			"major",
+			"select",
+			"print",
+			"/*!",
+			"header",
+			"media",
+			"@media",
+			"media"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "oreilly-angular-js.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

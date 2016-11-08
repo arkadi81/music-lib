@@ -1,0 +1,47 @@
+<h2>list of features to implement (and angular tricks to learn)</h2>
+
+<p>features: ability to sort and search the library as needed
+ability to play the music (find or build a built in player)
+ability to save playlists
+ability to upload files
+
+fetch info from database
+ability to filter data by composer, arranger etc
+ability to serve all information in multiple languages (at least english and hebrew)
+maintain db of users which enables to save personalized playlists and preferences.
+make database secure
+style info fetch from database
+add information (meta + file) to database
+assign id to new files and link them to database
+serve files with a predefined filename pattern
+ability to add files to favs list
+ability to select multiple files and download as zip
+ability to convert to mp3 or download in several formats
+
+ability to edit meta data and update the database</p>
+
+<h2>desired dependencies</h2>
+
+<p>jquery
+angular/ui-router
+json
+bootstrap
+toastr for media player added notifications</p>
+
+<h2>Progress so far</h2>
+<ul>
+  <li>2016.10.15 managed to run xhr tests with karma/jasmine and mocks $httpbackend server</li>
+  <li>started playing with components (only works in angular 1.5.8, not 1.2)</li>
+  <li>managed to separate grid model/view into a grid-component, which is now entirely indepenent (except for the colResizable link)</li>
+  <li>improved directory structure and cleaned up index html</li>
+  <li>
+    for karma to run properly 
+    npm instal --global 
+      karma
+      jasmine-core
+      karma-jasmine
+      karma-chrome-launcher
+      angular-mocks
+    get all of the dependencies locally and load them into karma conf since these will be needed for testing before the actual specs.
+  </li>
+</ul>
